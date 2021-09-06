@@ -2,7 +2,6 @@
 - 👀 I’m interested in creative coding
 - 🌱 I’m currently learning computure science
 - 💞️ I’m looking to collaborate on any intersting ideas
-- 📫 How to reach me @shuvcheck 
 
 <!---
 Shuvcheck/Shuvcheck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
